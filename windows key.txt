@@ -1,0 +1,65 @@
+¡¡1¡¢win10 family
+
+¡¡¡¡Win 10 Home (Core) Edition OEM
+
+¡¡¡¡OEM NON SLP:
+
+¡¡¡¡[Key]£ºKCYRD-QNR4K-6RY36-MPQMM-F9CHG
+
+¡¡¡¡[Key]£ºYNG79-9PXTP-4RDWY-67P9V-CYT3T
+
+¡¡¡¡Win 10 Home(Core) Retail
+
+¡¡¡¡[Key]£º2RKXW-PFNVQ-4R49T-TCQBT-3V63V
+
+¡¡¡¡[Key]£º4THMG-NFHRJ-WWQGD-CK8PM-X4R7H
+
+¡¡¡¡2¡¢win10 pro
+
+¡¡¡¡Win 10 Professional Volume:MAK
+
+¡¡¡¡[Key]£ºBXW2K-N7JJT-TK3PJ-QYY3Y-FGDGY
+
+¡¡¡¡[Key]£ºTNBWH-T4GVX-QQ2VD-GWXYF-VMH3B
+
+¡¡¡¡Win 10 Professional Retail
+
+¡¡¡¡[Key]£º28YMN-RMKKW-4PKDK-MHVB2-XTPKG
+
+¡¡¡¡[Key]£º28TWN-9VDVQ-CKQ4M-J8BJM-XBT6T
+
+¡¡¡¡3¡¢win10 ent
+
+¡¡¡¡Win 10 Enterprise Volume:MAK
+
+¡¡¡¡[Key]£ºN4KHC-23X7Y-FHCDH-6F2Q4-YTDF4
+
+¡¡¡¡[Key]£ºPN9QD-8RKPX-9Q2T9-WKG37-4C2JR
+
+¡¡¡¡Win 10 EnterpriseS 2016 Volume:MAK ( Enterprise LTSB )
+
+¡¡¡¡[Key]£ºJFVW7-XNC3Y-TD2M6-HFCD2-GQ8WQ
+
+¡¡¡¡[Key]£ºPGDVN-GKX6K-MGJDR-CRVDV-HXPJQ
+
+¡¡¡¡4¡¢win10 edu
+
+¡¡¡¡Win 10 Education Volume:MAK
+
+¡¡¡¡[Key]£ºWQX7T-XN7BH-GY44W-BTM32-9QBM3
+
+¡¡¡¡[Key]£ºQYYHN-DJB2P-7XWGC-D9BHT-WXCJD
+
+¡¡¡¡Win 10 Education N Volume:MAK
+
+¡¡¡¡[Key]£ºVJGPC-QNQWQ-TD22C-J26V8-MTDFX
+
+¡¡¡¡5¡¢win10 pro edu
+
+¡¡¡¡Win 10 Pro Education Volume:MAK
+
+¡¡¡¡[Key]£ºNHJ23-Q3MBT-9TW8K-R39KV-94T4D
+
+¡¡¡¡Win 10 Pro Education N Volume:MAK
+
+¡¡¡¡[Key]£ºT9NFD-3RDH8-GF4RT-Q2K6F-KBVYR
